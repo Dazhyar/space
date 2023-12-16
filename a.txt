@@ -1,0 +1,14 @@
+O---------------O--------O
+first           added
+commit          image
+
+
+
+add  فایلەکان ئامادە ئەکات بۆ ڤێرژنێکی تازە
+
+
+stagin area (index.html)
+            |
+            |
+            |
+git commit  ڤێرژنی تازە
